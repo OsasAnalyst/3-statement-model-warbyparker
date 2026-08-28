@@ -1,0 +1,151 @@
+﻿driver,driver_label,scenario,year,value,rationale
+revenue_growth_pct,Revenue growth %,base,2026,0.13,"Starts near the FY24-25 average growth rate (~14.1%), decelerating to 7% by year 5 - typical maturation curve for a scaling DTC retailer, consistent with WRBY's own deceleration from 15.2% (FY24) to 13.0% (FY25)."
+revenue_growth_pct,Revenue growth %,base,2027,0.115,"Starts near the FY24-25 average growth rate (~14.1%), decelerating to 7% by year 5 - typical maturation curve for a scaling DTC retailer, consistent with WRBY's own deceleration from 15.2% (FY24) to 13.0% (FY25)."
+revenue_growth_pct,Revenue growth %,base,2028,0.1,"Starts near the FY24-25 average growth rate (~14.1%), decelerating to 7% by year 5 - typical maturation curve for a scaling DTC retailer, consistent with WRBY's own deceleration from 15.2% (FY24) to 13.0% (FY25)."
+revenue_growth_pct,Revenue growth %,base,2029,0.085,"Starts near the FY24-25 average growth rate (~14.1%), decelerating to 7% by year 5 - typical maturation curve for a scaling DTC retailer, consistent with WRBY's own deceleration from 15.2% (FY24) to 13.0% (FY25)."
+revenue_growth_pct,Revenue growth %,base,2030,0.07,"Starts near the FY24-25 average growth rate (~14.1%), decelerating to 7% by year 5 - typical maturation curve for a scaling DTC retailer, consistent with WRBY's own deceleration from 15.2% (FY24) to 13.0% (FY25)."
+revenue_growth_pct,Revenue growth %,best,2026,0.15,"Holds near FY24's peak growth rate (15.2%) and decelerates more slowly - new store productivity and category expansion (contacts, exams) sustain growth longer."
+revenue_growth_pct,Revenue growth %,best,2027,0.14,"Holds near FY24's peak growth rate (15.2%) and decelerates more slowly - new store productivity and category expansion (contacts, exams) sustain growth longer."
+revenue_growth_pct,Revenue growth %,best,2028,0.13,"Holds near FY24's peak growth rate (15.2%) and decelerates more slowly - new store productivity and category expansion (contacts, exams) sustain growth longer."
+revenue_growth_pct,Revenue growth %,best,2029,0.12,"Holds near FY24's peak growth rate (15.2%) and decelerates more slowly - new store productivity and category expansion (contacts, exams) sustain growth longer."
+revenue_growth_pct,Revenue growth %,best,2030,0.11,"Holds near FY24's peak growth rate (15.2%) and decelerates more slowly - new store productivity and category expansion (contacts, exams) sustain growth longer."
+revenue_growth_pct,Revenue growth %,worst,2026,0.08,"Growth roughly halves from the FY25 rate immediately - reflects competitive/macro pressure on discretionary eyewear spend, decelerating to GDP-like growth by year 5."
+revenue_growth_pct,Revenue growth %,worst,2027,0.0675,"Growth roughly halves from the FY25 rate immediately - reflects competitive/macro pressure on discretionary eyewear spend, decelerating to GDP-like growth by year 5."
+revenue_growth_pct,Revenue growth %,worst,2028,0.055,"Growth roughly halves from the FY25 rate immediately - reflects competitive/macro pressure on discretionary eyewear spend, decelerating to GDP-like growth by year 5."
+revenue_growth_pct,Revenue growth %,worst,2029,0.0425,"Growth roughly halves from the FY25 rate immediately - reflects competitive/macro pressure on discretionary eyewear spend, decelerating to GDP-like growth by year 5."
+revenue_growth_pct,Revenue growth %,worst,2030,0.03,"Growth roughly halves from the FY25 rate immediately - reflects competitive/macro pressure on discretionary eyewear spend, decelerating to GDP-like growth by year 5."
+gross_margin_pct,Gross margin %,base,2026,0.545,"Roughly flat at the FY25 level (54.0%) trending toward the 3-year average (54.6%) - gross margin has been range-bound 54-59% since FY21 with no clear directional trend, so flat is the defensible default."
+gross_margin_pct,Gross margin %,base,2027,0.54625,"Roughly flat at the FY25 level (54.0%) trending toward the 3-year average (54.6%) - gross margin has been range-bound 54-59% since FY21 with no clear directional trend, so flat is the defensible default."
+gross_margin_pct,Gross margin %,base,2028,0.5475,"Roughly flat at the FY25 level (54.0%) trending toward the 3-year average (54.6%) - gross margin has been range-bound 54-59% since FY21 with no clear directional trend, so flat is the defensible default."
+gross_margin_pct,Gross margin %,base,2029,0.54875,"Roughly flat at the FY25 level (54.0%) trending toward the 3-year average (54.6%) - gross margin has been range-bound 54-59% since FY21 with no clear directional trend, so flat is the defensible default."
+gross_margin_pct,Gross margin %,base,2030,0.55,"Roughly flat at the FY25 level (54.0%) trending toward the 3-year average (54.6%) - gross margin has been range-bound 54-59% since FY21 with no clear directional trend, so flat is the defensible default."
+gross_margin_pct,Gross margin %,best,2026,0.55,Gradual improvement via mix shift toward higher-margin lens/exam revenue and supply chain efficiency at scale.
+gross_margin_pct,Gross margin %,best,2027,0.555,Gradual improvement via mix shift toward higher-margin lens/exam revenue and supply chain efficiency at scale.
+gross_margin_pct,Gross margin %,best,2028,0.56,Gradual improvement via mix shift toward higher-margin lens/exam revenue and supply chain efficiency at scale.
+gross_margin_pct,Gross margin %,best,2029,0.565,Gradual improvement via mix shift toward higher-margin lens/exam revenue and supply chain efficiency at scale.
+gross_margin_pct,Gross margin %,best,2030,0.57,Gradual improvement via mix shift toward higher-margin lens/exam revenue and supply chain efficiency at scale.
+gross_margin_pct,Gross margin %,worst,2026,0.535,Continued compression from FY21's 58.8% peak - input cost inflation and promotional intensity outpace efficiency gains.
+gross_margin_pct,Gross margin %,worst,2027,0.52875,Continued compression from FY21's 58.8% peak - input cost inflation and promotional intensity outpace efficiency gains.
+gross_margin_pct,Gross margin %,worst,2028,0.5225,Continued compression from FY21's 58.8% peak - input cost inflation and promotional intensity outpace efficiency gains.
+gross_margin_pct,Gross margin %,worst,2029,0.51625,Continued compression from FY21's 58.8% peak - input cost inflation and promotional intensity outpace efficiency gains.
+gross_margin_pct,Gross margin %,worst,2030,0.51,Continued compression from FY21's 58.8% peak - input cost inflation and promotional intensity outpace efficiency gains.
+sga_pct_revenue,SG&A % of revenue,base,2026,0.535,Continues improving from FY25's 54.6% but at a decelerating pace - the FY21-25 improvement (85.3% -> 54.6%) can't repeat at the same rate; diminishing returns to operating leverage as the store base matures.
+sga_pct_revenue,SG&A % of revenue,base,2027,0.52125,Continues improving from FY25's 54.6% but at a decelerating pace - the FY21-25 improvement (85.3% -> 54.6%) can't repeat at the same rate; diminishing returns to operating leverage as the store base matures.
+sga_pct_revenue,SG&A % of revenue,base,2028,0.5075,Continues improving from FY25's 54.6% but at a decelerating pace - the FY21-25 improvement (85.3% -> 54.6%) can't repeat at the same rate; diminishing returns to operating leverage as the store base matures.
+sga_pct_revenue,SG&A % of revenue,base,2029,0.49375,Continues improving from FY25's 54.6% but at a decelerating pace - the FY21-25 improvement (85.3% -> 54.6%) can't repeat at the same rate; diminishing returns to operating leverage as the store base matures.
+sga_pct_revenue,SG&A % of revenue,base,2030,0.48,Continues improving from FY25's 54.6% but at a decelerating pace - the FY21-25 improvement (85.3% -> 54.6%) can't repeat at the same rate; diminishing returns to operating leverage as the store base matures.
+sga_pct_revenue,SG&A % of revenue,best,2026,0.53,Operating leverage continues at closer to the recent pace - marketing efficiency and corporate overhead leverage both improve further as revenue scales.
+sga_pct_revenue,SG&A % of revenue,best,2027,0.5075,Operating leverage continues at closer to the recent pace - marketing efficiency and corporate overhead leverage both improve further as revenue scales.
+sga_pct_revenue,SG&A % of revenue,best,2028,0.485,Operating leverage continues at closer to the recent pace - marketing efficiency and corporate overhead leverage both improve further as revenue scales.
+sga_pct_revenue,SG&A % of revenue,best,2029,0.4625,Operating leverage continues at closer to the recent pace - marketing efficiency and corporate overhead leverage both improve further as revenue scales.
+sga_pct_revenue,SG&A % of revenue,best,2030,0.44,Operating leverage continues at closer to the recent pace - marketing efficiency and corporate overhead leverage both improve further as revenue scales.
+sga_pct_revenue,SG&A % of revenue,worst,2026,0.545,"Leverage gains stall entirely, holding flat at the FY25 level - rising marketing costs to defend growth offset any further corporate overhead leverage."
+sga_pct_revenue,SG&A % of revenue,worst,2027,0.545,"Leverage gains stall entirely, holding flat at the FY25 level - rising marketing costs to defend growth offset any further corporate overhead leverage."
+sga_pct_revenue,SG&A % of revenue,worst,2028,0.545,"Leverage gains stall entirely, holding flat at the FY25 level - rising marketing costs to defend growth offset any further corporate overhead leverage."
+sga_pct_revenue,SG&A % of revenue,worst,2029,0.545,"Leverage gains stall entirely, holding flat at the FY25 level - rising marketing costs to defend growth offset any further corporate overhead leverage."
+sga_pct_revenue,SG&A % of revenue,worst,2030,0.545,"Leverage gains stall entirely, holding flat at the FY25 level - rising marketing costs to defend growth offset any further corporate overhead leverage."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),base,2026,0.08,"NOT extrapolated from the historical ratio (economically meaningless in pretax-loss years - see FY25's 46% distortion). Modeled instead as a ramp: low cash tax rate while NOL carryforwards offset newly-positive income, rising toward a normalized ~24% effective rate (below the 21% federal statutory + state blend, since some NOL shield likely remains through year 5)."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),base,2027,0.12,"NOT extrapolated from the historical ratio (economically meaningless in pretax-loss years - see FY25's 46% distortion). Modeled instead as a ramp: low cash tax rate while NOL carryforwards offset newly-positive income, rising toward a normalized ~24% effective rate (below the 21% federal statutory + state blend, since some NOL shield likely remains through year 5)."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),base,2028,0.16,"NOT extrapolated from the historical ratio (economically meaningless in pretax-loss years - see FY25's 46% distortion). Modeled instead as a ramp: low cash tax rate while NOL carryforwards offset newly-positive income, rising toward a normalized ~24% effective rate (below the 21% federal statutory + state blend, since some NOL shield likely remains through year 5)."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),base,2029,0.2,"NOT extrapolated from the historical ratio (economically meaningless in pretax-loss years - see FY25's 46% distortion). Modeled instead as a ramp: low cash tax rate while NOL carryforwards offset newly-positive income, rising toward a normalized ~24% effective rate (below the 21% federal statutory + state blend, since some NOL shield likely remains through year 5)."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),base,2030,0.24,"NOT extrapolated from the historical ratio (economically meaningless in pretax-loss years - see FY25's 46% distortion). Modeled instead as a ramp: low cash tax rate while NOL carryforwards offset newly-positive income, rising toward a normalized ~24% effective rate (below the 21% federal statutory + state blend, since some NOL shield likely remains through year 5)."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),best,2026,0.05,"NOLs stretch further / income mix skews to lower-tax jurisdictions, keeping the effective rate below normalized longer."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),best,2027,0.0875,"NOLs stretch further / income mix skews to lower-tax jurisdictions, keeping the effective rate below normalized longer."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),best,2028,0.125,"NOLs stretch further / income mix skews to lower-tax jurisdictions, keeping the effective rate below normalized longer."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),best,2029,0.1625,"NOLs stretch further / income mix skews to lower-tax jurisdictions, keeping the effective rate below normalized longer."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),best,2030,0.2,"NOLs stretch further / income mix skews to lower-tax jurisdictions, keeping the effective rate below normalized longer."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),worst,2026,0.12,"NOLs exhausted faster than expected as income grows quicker than assumed, reaching full statutory-plus-state rate by year 5."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),worst,2027,0.1575,"NOLs exhausted faster than expected as income grows quicker than assumed, reaching full statutory-plus-state rate by year 5."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),worst,2028,0.195,"NOLs exhausted faster than expected as income grows quicker than assumed, reaching full statutory-plus-state rate by year 5."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),worst,2029,0.2325,"NOLs exhausted faster than expected as income grows quicker than assumed, reaching full statutory-plus-state rate by year 5."
+effective_tax_rate_pct,Effective tax rate % (flagged where pretax income <= 0),worst,2030,0.27,"NOLs exhausted faster than expected as income grows quicker than assumed, reaching full statutory-plus-state rate by year 5."
+dso_days,DSO (days sales outstanding),base,2026,1.5,"Held flat near FY25's 1.4 days - receivables are immaterial for a cash/card-driven DTC retailer (this line is mostly wholesale/insurance reimbursement), so it's a low-priority driver with minimal forecast impact regardless of scenario."
+dso_days,DSO (days sales outstanding),base,2027,1.5,"Held flat near FY25's 1.4 days - receivables are immaterial for a cash/card-driven DTC retailer (this line is mostly wholesale/insurance reimbursement), so it's a low-priority driver with minimal forecast impact regardless of scenario."
+dso_days,DSO (days sales outstanding),base,2028,1.5,"Held flat near FY25's 1.4 days - receivables are immaterial for a cash/card-driven DTC retailer (this line is mostly wholesale/insurance reimbursement), so it's a low-priority driver with minimal forecast impact regardless of scenario."
+dso_days,DSO (days sales outstanding),base,2029,1.5,"Held flat near FY25's 1.4 days - receivables are immaterial for a cash/card-driven DTC retailer (this line is mostly wholesale/insurance reimbursement), so it's a low-priority driver with minimal forecast impact regardless of scenario."
+dso_days,DSO (days sales outstanding),base,2030,1.5,"Held flat near FY25's 1.4 days - receivables are immaterial for a cash/card-driven DTC retailer (this line is mostly wholesale/insurance reimbursement), so it's a low-priority driver with minimal forecast impact regardless of scenario."
+dso_days,DSO (days sales outstanding),best,2026,1.2,Marginal improvement; low materiality either way.
+dso_days,DSO (days sales outstanding),best,2027,1.2,Marginal improvement; low materiality either way.
+dso_days,DSO (days sales outstanding),best,2028,1.2,Marginal improvement; low materiality either way.
+dso_days,DSO (days sales outstanding),best,2029,1.2,Marginal improvement; low materiality either way.
+dso_days,DSO (days sales outstanding),best,2030,1.2,Marginal improvement; low materiality either way.
+dso_days,DSO (days sales outstanding),worst,2026,2.0,Marginal deterioration; low materiality either way.
+dso_days,DSO (days sales outstanding),worst,2027,2.0,Marginal deterioration; low materiality either way.
+dso_days,DSO (days sales outstanding),worst,2028,2.0,Marginal deterioration; low materiality either way.
+dso_days,DSO (days sales outstanding),worst,2029,2.0,Marginal deterioration; low materiality either way.
+dso_days,DSO (days sales outstanding),worst,2030,2.0,Marginal deterioration; low materiality either way.
+dio_days,DIO (days inventory outstanding),base,2026,38.0,"Continues the strong FY21-25 improvement (93 -> 41 days) but at a decelerating pace - most of the easy inventory-efficiency gains (better demand forecasting, fewer SKUs held in excess) have likely already been captured."
+dio_days,DIO (days inventory outstanding),base,2027,36.75,"Continues the strong FY21-25 improvement (93 -> 41 days) but at a decelerating pace - most of the easy inventory-efficiency gains (better demand forecasting, fewer SKUs held in excess) have likely already been captured."
+dio_days,DIO (days inventory outstanding),base,2028,35.5,"Continues the strong FY21-25 improvement (93 -> 41 days) but at a decelerating pace - most of the easy inventory-efficiency gains (better demand forecasting, fewer SKUs held in excess) have likely already been captured."
+dio_days,DIO (days inventory outstanding),base,2029,34.25,"Continues the strong FY21-25 improvement (93 -> 41 days) but at a decelerating pace - most of the easy inventory-efficiency gains (better demand forecasting, fewer SKUs held in excess) have likely already been captured."
+dio_days,DIO (days inventory outstanding),base,2030,33.0,"Continues the strong FY21-25 improvement (93 -> 41 days) but at a decelerating pace - most of the easy inventory-efficiency gains (better demand forecasting, fewer SKUs held in excess) have likely already been captured."
+dio_days,DIO (days inventory outstanding),best,2026,38.0,Efficiency gains continue at closer to the recent pace - further supply chain investment pays off.
+dio_days,DIO (days inventory outstanding),best,2027,35.0,Efficiency gains continue at closer to the recent pace - further supply chain investment pays off.
+dio_days,DIO (days inventory outstanding),best,2028,32.0,Efficiency gains continue at closer to the recent pace - further supply chain investment pays off.
+dio_days,DIO (days inventory outstanding),best,2029,29.0,Efficiency gains continue at closer to the recent pace - further supply chain investment pays off.
+dio_days,DIO (days inventory outstanding),best,2030,26.0,Efficiency gains continue at closer to the recent pace - further supply chain investment pays off.
+dio_days,DIO (days inventory outstanding),worst,2026,45.0,Partial reversion toward the FY22-23 level (75-98 days) - supply chain disruption or overordering ahead of demand.
+dio_days,DIO (days inventory outstanding),worst,2027,46.25,Partial reversion toward the FY22-23 level (75-98 days) - supply chain disruption or overordering ahead of demand.
+dio_days,DIO (days inventory outstanding),worst,2028,47.5,Partial reversion toward the FY22-23 level (75-98 days) - supply chain disruption or overordering ahead of demand.
+dio_days,DIO (days inventory outstanding),worst,2029,48.75,Partial reversion toward the FY22-23 level (75-98 days) - supply chain disruption or overordering ahead of demand.
+dio_days,DIO (days inventory outstanding),worst,2030,50.0,Partial reversion toward the FY22-23 level (75-98 days) - supply chain disruption or overordering ahead of demand.
+dpo_days,DPO (days payable outstanding),base,2026,28.0,"Held near the FY23-25 average (~27 days) - payment terms have been stable since the FY21 outlier (50 days, likely a pre-IPO working-capital management artifact)."
+dpo_days,DPO (days payable outstanding),base,2027,28.0,"Held near the FY23-25 average (~27 days) - payment terms have been stable since the FY21 outlier (50 days, likely a pre-IPO working-capital management artifact)."
+dpo_days,DPO (days payable outstanding),base,2028,28.0,"Held near the FY23-25 average (~27 days) - payment terms have been stable since the FY21 outlier (50 days, likely a pre-IPO working-capital management artifact)."
+dpo_days,DPO (days payable outstanding),base,2029,28.0,"Held near the FY23-25 average (~27 days) - payment terms have been stable since the FY21 outlier (50 days, likely a pre-IPO working-capital management artifact)."
+dpo_days,DPO (days payable outstanding),base,2030,28.0,"Held near the FY23-25 average (~27 days) - payment terms have been stable since the FY21 outlier (50 days, likely a pre-IPO working-capital management artifact)."
+dpo_days,DPO (days payable outstanding),best,2026,30.0,Stronger supplier terms negotiated as WRBY's scale/leverage grows.
+dpo_days,DPO (days payable outstanding),best,2027,31.0,Stronger supplier terms negotiated as WRBY's scale/leverage grows.
+dpo_days,DPO (days payable outstanding),best,2028,32.0,Stronger supplier terms negotiated as WRBY's scale/leverage grows.
+dpo_days,DPO (days payable outstanding),best,2029,33.0,Stronger supplier terms negotiated as WRBY's scale/leverage grows.
+dpo_days,DPO (days payable outstanding),best,2030,34.0,Stronger supplier terms negotiated as WRBY's scale/leverage grows.
+dpo_days,DPO (days payable outstanding),worst,2026,24.0,Suppliers tighten terms as competitive pressure on WRBY's margins grows.
+dpo_days,DPO (days payable outstanding),worst,2027,23.5,Suppliers tighten terms as competitive pressure on WRBY's margins grows.
+dpo_days,DPO (days payable outstanding),worst,2028,23.0,Suppliers tighten terms as competitive pressure on WRBY's margins grows.
+dpo_days,DPO (days payable outstanding),worst,2029,22.5,Suppliers tighten terms as competitive pressure on WRBY's margins grows.
+dpo_days,DPO (days payable outstanding),worst,2030,22.0,Suppliers tighten terms as competitive pressure on WRBY's margins grows.
+capex_pct_revenue,Capex % of revenue,base,2026,0.08,"Held near the FY23-25 average (~8.0%) - consistent with continued store expansion and technology investment at a steady pace, in line with the last 3 years' range (7.7%-8.3%)."
+capex_pct_revenue,Capex % of revenue,base,2027,0.08,"Held near the FY23-25 average (~8.0%) - consistent with continued store expansion and technology investment at a steady pace, in line with the last 3 years' range (7.7%-8.3%)."
+capex_pct_revenue,Capex % of revenue,base,2028,0.08,"Held near the FY23-25 average (~8.0%) - consistent with continued store expansion and technology investment at a steady pace, in line with the last 3 years' range (7.7%-8.3%)."
+capex_pct_revenue,Capex % of revenue,base,2029,0.08,"Held near the FY23-25 average (~8.0%) - consistent with continued store expansion and technology investment at a steady pace, in line with the last 3 years' range (7.7%-8.3%)."
+capex_pct_revenue,Capex % of revenue,base,2030,0.08,"Held near the FY23-25 average (~8.0%) - consistent with continued store expansion and technology investment at a steady pace, in line with the last 3 years' range (7.7%-8.3%)."
+capex_pct_revenue,Capex % of revenue,best,2026,0.075,Slightly more capital-efficient store formats and tech reuse.
+capex_pct_revenue,Capex % of revenue,best,2027,0.07375,Slightly more capital-efficient store formats and tech reuse.
+capex_pct_revenue,Capex % of revenue,best,2028,0.0725,Slightly more capital-efficient store formats and tech reuse.
+capex_pct_revenue,Capex % of revenue,best,2029,0.07125,Slightly more capital-efficient store formats and tech reuse.
+capex_pct_revenue,Capex % of revenue,best,2030,0.07,Slightly more capital-efficient store formats and tech reuse.
+capex_pct_revenue,Capex % of revenue,worst,2026,0.085,Accelerated store buildout and/or higher technology spend to defend growth.
+capex_pct_revenue,Capex % of revenue,worst,2027,0.08875,Accelerated store buildout and/or higher technology spend to defend growth.
+capex_pct_revenue,Capex % of revenue,worst,2028,0.0925,Accelerated store buildout and/or higher technology spend to defend growth.
+capex_pct_revenue,Capex % of revenue,worst,2029,0.09625,Accelerated store buildout and/or higher technology spend to defend growth.
+capex_pct_revenue,Capex % of revenue,worst,2030,0.1,Accelerated store buildout and/or higher technology spend to defend growth.
+da_pct_revenue,D&A % of revenue,base,2026,0.058,Held flat near FY24-25 (~5.9%) - D&A has risen alongside the growing capex base (4.0% -> 5.8% FY21-25) and should stabilize once capex and depreciation reach a steady-state ratio.
+da_pct_revenue,D&A % of revenue,base,2027,0.058,Held flat near FY24-25 (~5.9%) - D&A has risen alongside the growing capex base (4.0% -> 5.8% FY21-25) and should stabilize once capex and depreciation reach a steady-state ratio.
+da_pct_revenue,D&A % of revenue,base,2028,0.058,Held flat near FY24-25 (~5.9%) - D&A has risen alongside the growing capex base (4.0% -> 5.8% FY21-25) and should stabilize once capex and depreciation reach a steady-state ratio.
+da_pct_revenue,D&A % of revenue,base,2029,0.058,Held flat near FY24-25 (~5.9%) - D&A has risen alongside the growing capex base (4.0% -> 5.8% FY21-25) and should stabilize once capex and depreciation reach a steady-state ratio.
+da_pct_revenue,D&A % of revenue,base,2030,0.058,Held flat near FY24-25 (~5.9%) - D&A has risen alongside the growing capex base (4.0% -> 5.8% FY21-25) and should stabilize once capex and depreciation reach a steady-state ratio.
+da_pct_revenue,D&A % of revenue,best,2026,0.056,"Modest efficiency as newer, longer-lived assets are added."
+da_pct_revenue,D&A % of revenue,best,2027,0.0555,"Modest efficiency as newer, longer-lived assets are added."
+da_pct_revenue,D&A % of revenue,best,2028,0.055,"Modest efficiency as newer, longer-lived assets are added."
+da_pct_revenue,D&A % of revenue,best,2029,0.0545,"Modest efficiency as newer, longer-lived assets are added."
+da_pct_revenue,D&A % of revenue,best,2030,0.054,"Modest efficiency as newer, longer-lived assets are added."
+da_pct_revenue,D&A % of revenue,worst,2026,0.06,Continues rising if capex intensity increases (see worst-case capex).
+da_pct_revenue,D&A % of revenue,worst,2027,0.06125,Continues rising if capex intensity increases (see worst-case capex).
+da_pct_revenue,D&A % of revenue,worst,2028,0.0625,Continues rising if capex intensity increases (see worst-case capex).
+da_pct_revenue,D&A % of revenue,worst,2029,0.06375,Continues rising if capex intensity increases (see worst-case capex).
+da_pct_revenue,D&A % of revenue,worst,2030,0.065,Continues rising if capex intensity increases (see worst-case capex).
+sbc_pct_revenue,Stock-based comp % of revenue,base,2026,0.035,Continues declining from FY25's 4.0% but levels off - the FY21-25 drop (19.8% -> 4.0%) reflects pre-IPO grants rolling off and won't repeat; expect it to settle near a typical public-company steady state (2.5-3.5% of revenue).
+sbc_pct_revenue,Stock-based comp % of revenue,base,2027,0.03325,Continues declining from FY25's 4.0% but levels off - the FY21-25 drop (19.8% -> 4.0%) reflects pre-IPO grants rolling off and won't repeat; expect it to settle near a typical public-company steady state (2.5-3.5% of revenue).
+sbc_pct_revenue,Stock-based comp % of revenue,base,2028,0.0315,Continues declining from FY25's 4.0% but levels off - the FY21-25 drop (19.8% -> 4.0%) reflects pre-IPO grants rolling off and won't repeat; expect it to settle near a typical public-company steady state (2.5-3.5% of revenue).
+sbc_pct_revenue,Stock-based comp % of revenue,base,2029,0.02975,Continues declining from FY25's 4.0% but levels off - the FY21-25 drop (19.8% -> 4.0%) reflects pre-IPO grants rolling off and won't repeat; expect it to settle near a typical public-company steady state (2.5-3.5% of revenue).
+sbc_pct_revenue,Stock-based comp % of revenue,base,2030,0.028,Continues declining from FY25's 4.0% but levels off - the FY21-25 drop (19.8% -> 4.0%) reflects pre-IPO grants rolling off and won't repeat; expect it to settle near a typical public-company steady state (2.5-3.5% of revenue).
+sbc_pct_revenue,Stock-based comp % of revenue,best,2026,0.032,Continues toward the lower end of typical public-company SBC levels.
+sbc_pct_revenue,Stock-based comp % of revenue,best,2027,0.0295,Continues toward the lower end of typical public-company SBC levels.
+sbc_pct_revenue,Stock-based comp % of revenue,best,2028,0.027,Continues toward the lower end of typical public-company SBC levels.
+sbc_pct_revenue,Stock-based comp % of revenue,best,2029,0.0245,Continues toward the lower end of typical public-company SBC levels.
+sbc_pct_revenue,Stock-based comp % of revenue,best,2030,0.022,Continues toward the lower end of typical public-company SBC levels.
+sbc_pct_revenue,Stock-based comp % of revenue,worst,2026,0.038,New equity grants increase to retain talent amid competitive hiring pressure.
+sbc_pct_revenue,Stock-based comp % of revenue,worst,2027,0.03975,New equity grants increase to retain talent amid competitive hiring pressure.
+sbc_pct_revenue,Stock-based comp % of revenue,worst,2028,0.0415,New equity grants increase to retain talent amid competitive hiring pressure.
+sbc_pct_revenue,Stock-based comp % of revenue,worst,2029,0.04325,New equity grants increase to retain talent amid competitive hiring pressure.
+sbc_pct_revenue,Stock-based comp % of revenue,worst,2030,0.045,New equity grants increase to retain talent amid competitive hiring pressure.
